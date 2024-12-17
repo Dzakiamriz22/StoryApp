@@ -1,0 +1,11 @@
+[
+  {
+    "featureType": "poi",
+    "stylers": [{"visibility": "off"}]
+  },
+  {
+    "featureType": "road",
+    "elementType": "geometry",
+    "stylers": [{"color": "#ffcc00"}]
+  }
+]

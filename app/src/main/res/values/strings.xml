@@ -1,0 +1,37 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">StoryApp</string>
+
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_account">Dont have an account?</string>
+    <string name="already_have_account">Already have an account?</string>
+
+    <!-- Registration Screen -->
+    <string name="register_title">Create Account</string>
+    <string name="name">Name</string>
+    <string name="register">Register</string>
+
+    <!-- Story Related -->
+    <string name="add_story">Add Story</string>
+    <string name="story_app">Story List</string>
+    <string name="enter_story_description">Enter Story Description</string>
+    <string name="description_input_field">Description input field</string>
+    <string name="upload_story">Upload Story</string>
+
+    <!-- Item Photo & Detail -->
+    <string name="item_photo_desc">Item Photo Description</string>
+    <string name="detail_photo_desc">Detail Photo Description</string>
+
+    <!-- Logout -->
+    <string name="logout">Logout</string>
+
+    <!-- Error Handling -->
+    <string name="login_failed">Login Failed</string>
+    <string name="error">Error</string>
+    <string name="failed_to_get_stories">Failed to get stories</string>
+    <string name="open_maps">Open Maps</string>
+</resources>
